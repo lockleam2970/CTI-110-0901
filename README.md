@@ -1,2 +1,4 @@
-# CTI-110-0901
-CTI-110 Repo
+# CTI 110 Repository
+Created for M2LAB1
+Mitchell Locklear
+09/07/2017
