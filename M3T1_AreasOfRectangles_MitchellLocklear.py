@@ -1,5 +1,5 @@
-# M3T1
-# Areas of Rectangles
+# CTI-110
+# M3T1 - Areas of Rectangles
 # Mitchell Locklear
 # 09/13/2017
 
